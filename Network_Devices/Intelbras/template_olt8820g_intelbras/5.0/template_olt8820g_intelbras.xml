@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<zabbix_export><version>5.0</version><date>2021-11-21T21:44:45Z</date><groups><group><name>Templates</name></group></groups><templates><template><template>OLT</template><name>OLT</name><description>## Overview
+<zabbix_export><version>5.0</version><date>2021-11-21T21:44:45Z</date><groups><group><name>Templates</name></group></groups><templates><template><template>OLT_2</template><name>OLT</name><description>## Overview
 
  Informações das portas GPON
 
